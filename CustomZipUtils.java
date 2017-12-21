@@ -1,4 +1,4 @@
-package com.adobe.lmstool;
+package com.java.customapi;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
