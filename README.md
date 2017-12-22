@@ -4,17 +4,17 @@
 ### Required Maven files 
 #### 1. 
 
-  <dependency>
+    <dependency>
       <groupId>org.apache.ant</groupId>
       <artifactId>ant</artifactId>
       <version>1.10.0</version>
-  </dependency>
+    </dependency>
 ####2. 
 
-  <dependency>
+    <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-io</artifactId>
       <version>1.3.2</version>
-  </dependency>
+    </dependency>
   
   Remove unzip()method code in order to not use the ant library.
