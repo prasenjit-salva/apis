@@ -167,6 +167,7 @@ public class CustomZipUtils {
 	}
 
 	private void addFilelistToPath(File node) {
+		fileList.clear();
 		if (node.isFile()) {
 			fileList.add(node);
 		}
